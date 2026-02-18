@@ -1,5 +1,5 @@
 # SegmentDreamer: Towards High-fidelity Text-to-3D Synthesis with Segmented Consistency Trajectory Distillation
-Jiahao Zhu, [Zixuan Chen](https://github.com/NarcissusEx), [Guangcong Wang](https://wanggcong.github.io/), [Yi Zhou✉️](https://zssom.sysu.edu.cn/teacher/ZhouYi), [Xiaohua Xie✉️](https://cse.sysu.edu.cn/teacher/XieXiaohua)
+Jiahao Zhu, [Zixuan Chen](https://github.com/NarcissusEx), [Guangcong Wang](https://wanggcong.github.io/), [Xiaohua Xie✉️](https://cse.sysu.edu.cn/teacher/XieXiaohua), [Yi Zhou✉️](https://zssom.sysu.edu.cn/teacher/ZhouYi)
 
 <!-- **[[Project Page]](https://zjhjojo.github.io/segmentdreamer/)** **[[Arxiv]](https://arxiv.org/abs/2507.05256)** -->
 <div align="center">
